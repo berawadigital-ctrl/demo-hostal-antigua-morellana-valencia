@@ -1,0 +1,68 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hostal-antigua-morellana-valencia",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T08:45:00+01:00",
+ "updated_at": "2026-10-29T08:45:00+01:00",
+ "business": {
+  "name": "Hostal Antigua Morellana",
+  "legal_name": "Antigua Morellana S.L.",
+  "registry_ids": [
+   "CIF B96621743"
+  ],
+  "url": "https://www.hostalam.com/",
+  "domain": "hostalam.com",
+  "municipality": "Valencia",
+  "province": "Valencia",
+  "address": "Carrer d´En Bou, 2 · 46001 Valencia",
+  "phones": [
+   "+34 963 915 773"
+  ],
+  "emails": [
+   "info@hostalam.com"
+  ],
+  "sector": "hostal en el centro histórico de Valencia"
+ },
+ "rating": {
+  "value": 4.8,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hostal+Antigua+Morellana/@39.4746528,-0.3771854,17z/data=!4m9!3m8!1s0xd604f4d9da6f17b:0x3d00cdeb8dadc716!5m2!4m1!1i2!8m2!3d39.4746528!4d-0.3771854!16s%2Fg%2F1tn02kqn?hl=es&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "date": "2026-10-29T06:57:00+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": {
+   "es": "https://www.hostalam.com/es/availability",
+   "ca": "https://www.hostalam.com/es/availability",
+   "en": "https://www.hostalam.com/en/availability",
+   "fr": "https://www.hostalam.com/en/availability"
+  },
+  "note": "Los botones Reservar van a la pagina de disponibilidad de su propia web (hostalam.com/es/availability y /en/availability, con su motor onetbooking); su web solo tiene es/en, asi que ca enlaza la version es y fr la en. La demo no construye ningun motor."
+ },
+ "audit_original": {
+  "url": "https://www.hostalam.com/",
+  "date": "2026-10-29T07:56:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
