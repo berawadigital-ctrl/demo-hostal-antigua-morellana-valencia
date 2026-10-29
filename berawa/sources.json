@@ -1,0 +1,55 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hostalam.com/",
+ "read_at": "2026-10-29T08:05:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hostalam.com/",
+   "sha256": "8809e58a5b8d4902b425092b24f520b3b167ea7d1ff75e6e7b3d84c7a05c567d",
+   "chars": 6841
+  },
+  {
+   "url": "https://www.hostalam.com/antigua-morellana",
+   "sha256": "99df6d817b93acabc8882a237b57cc87a3c6299812991868d55b958f71cd9fe7",
+   "chars": 5006
+  },
+  {
+   "url": "https://www.hostalam.com/aviso-legal",
+   "sha256": "0a3c8c52e3ef34c80d82d1fbd85bc2690680bccf67525a66357b3a0177e1ca76",
+   "chars": 18091
+  },
+  {
+   "url": "https://www.hostalam.com/habitaciones/doble-dos-camas",
+   "sha256": "61eeb7d9032930857783d9d27b52c51f0e93ecd8780fc180ff05668ad75f8382",
+   "chars": 3337
+  },
+  {
+   "url": "https://www.hostalam.com/habitaciones/doble-matrimonio",
+   "sha256": "08c89c328e56c6ea4a2f6fa5a3d22a478c0934f760680a05edae68473680ee96",
+   "chars": 3403
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hostalam.com",
+  "https://www.hostalam.com/contacto",
+  "https://www.hostalam.com/en/",
+  "https://www.hostalam.com/en/antigua-morellana-2",
+  "https://www.hostalam.com/en/availability",
+  "https://www.hostalam.com/en/contact",
+  "https://www.hostalam.com/en/gallery",
+  "https://www.hostalam.com/en/habitaciones/double-bed-room",
+  "https://www.hostalam.com/en/habitaciones/twin-room",
+  "https://www.hostalam.com/en/offers",
+  "https://www.hostalam.com/en/rooms",
+  "https://www.hostalam.com/en/surroundings",
+  "https://www.hostalam.com/en/terms",
+  "https://www.hostalam.com/entorno",
+  "https://www.hostalam.com/es/availability",
+  "https://www.hostalam.com/galeria",
+  "https://www.hostalam.com/habitaciones",
+  "https://www.hostalam.com/ofertas",
+  "https://www.hostalam.com/politica-de-cookies",
+  "https://www.hostalam.com/politica-de-privacidad"
+ ]
+}

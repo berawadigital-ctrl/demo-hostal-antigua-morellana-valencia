@@ -1,0 +1,445 @@
+{
+ "url": "http://127.0.0.1:44829/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 18 habitaciones con baño privado: dobles con dos camas individuales (para 1 o 2 personas) y dobles con cama de matrimonio (para 2 pers"
+    },
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las habitaciones tienen baño privado, TV digital y parabólica con canales en varios idiomas, aire acondicionado frío/calor, secador de pelo,"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "No hay opciones de desayuno en el hostal; está en pleno centro, junto al Mercado Central. Hay un área de café y bebidas y máquina expendedor"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El hostal no tiene parking propio, pero el Parking Plaza de la Reina, público, está a solo 250 metros (consulta la tarifa)."
+    },
+    {
+     "q": "¿Tienen habitaciones adaptadas?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, dispone de habitaciones adaptadas para personas con movilidad reducida."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "No se aceptan mascotas, excepto perros de asistencia y los perros adscritos a las Fuerzas Armadas y a las Fuerzas y Cuerpos de Seguridad del"
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en el Carrer d´En Bou, 2, 46001 Valencia, en pleno centro histórico, junto al Mercado Central y la Lonja de la Seda."
+    },
+    {
+     "q": "¿A qué distancia está la Lonja?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Lonja de la Seda e Iglesia de Santa Catalina: 140 metros (2 minutos a pie); Plaza Redonda: 150 metros; Plaza de la Virgen: 400 metros (5 min"
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Entrada a partir de las 14:00h y salida hasta las 12:00h; si llegas antes y la habitación está disponible, te hacen el check-in. Hay consign"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes reservar con el botón Reservar (va a la página de disponibilidad de su web oficial, que anuncia mejor precio garantizado y cancelació"
+    },
+    {
+     "q": "¿Cuál es el correo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono +34 963 915 773 y correo info@hostalam.com. La recepción está abierta 24 horas."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Su aviso legal indica que la web pertenece a Antigua Morellana S.L., CIF B96621743, con domicilio en Calle En Bou, 2, 46001 Valencia."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 963 915 773 · info@hostalam.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes reservar con el botón Reservar (va a la página de disponibilidad de su web oficial, que anuncia mejor precio garantizado y cancelació"
+    },
+    {
+     "q": "¿Tienen gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 963 915 773 · info@hostalam.com."
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 963 915 773 · info@hostalam.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Hay parking?",
+    "¿A qué hora es el check-in?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 18 habitacions amb bany privat: dobles amb dos llits individuals (per a 1 o 2 persones) i dobles amb llit de matrimoni (per a 2 persones)"
+    },
+    {
+     "q": "Què tenen les habitacions?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les habitacions tenen bany privat, TV digital i parabòlica amb canals en diversos idiomes, aire condicionat fred/calor, assecador de cabells"
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "No hi ha opcions d'esmorzar a l'hostal; és en ple centre, al costat del Mercat Central. Hi ha una zona de cafè i begudes i màquina expenedor"
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "L'hostal no té pàrquing propi, però el Parking Plaza de la Reina, públic, és a només 250 metres (consulta la tarifa)."
+    },
+    {
+     "q": "Teniu habitacions adaptades?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, disposa d'habitacions adaptades per a persones amb mobilitat reduïda."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "No s'accepten mascotes, excepte gossos d'assistència i els gossos adscrits a les Forces Armades i als Cossos de Seguretat de l'Estat."
+    },
+    {
+     "q": "On és?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "És al Carrer d´En Bou, 2, 46001 València, en ple centre històric, al costat del Mercat Central i la Llotja de la Seda."
+    },
+    {
+     "q": "A quina distància és la Llotja?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Llotja de la Seda i Església de Santa Caterina: 140 metres (2 minuts a peu); Plaça Redona: 150 metres; Plaça de la Mare de Déu: 400 metres ("
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Entrada a partir de les 14:00h i sortida fins a les 12:00h; si arribes abans i l'habitació està disponible, et fan el check-in. Hi ha consig"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Pots reservar amb el botó Reservar (va a la pàgina de disponibilitat del seu web oficial, que anuncia millor preu garantit i cancel·lació se"
+    },
+    {
+     "q": "Quin és el correu?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telèfon +34 963 915 773 i correu info@hostalam.com. La recepció és oberta 24 hores."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "El seu avís legal indica que el web pertany a Antigua Morellana S.L., CIF B96621743, amb domicili a Calle En Bou, 2, 46001 València."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 963 915 773 · info@hostalam.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Pots reservar amb el botó Reservar (va a la pàgina de disponibilitat del seu web oficial, que anuncia millor preu garantit i cancel·lació se"
+    },
+    {
+     "q": "Teniu gimnàs?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 963 915 773 · info@hostalam.com."
+    },
+    {
+     "q": "Hi ha piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 963 915 773 · info@hostalam.com."
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "Hi ha pàrquing?",
+    "A quina hora és el check-in?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 18 rooms with private bathroom: twin rooms with two single beds (for 1 or 2 people) and double rooms with a double bed (for 2 people)"
+    },
+    {
+     "q": "What do the rooms have?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The rooms have a private bathroom, digital and satellite TV with channels in several languages, hot/cold air conditioning, a hairdryer, memo"
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "There is no breakfast option at the hostel; it is right in the centre, next to the Central Market. There is a coffee and drinks area and a v"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "The hostel has no parking of its own, but the public Parking Plaza de la Reina is only 250 metres away (ask for the rate)."
+    },
+    {
+     "q": "Do you have adapted rooms?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, it has rooms adapted for people with reduced mobility."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Pets are not accepted, except assistance dogs and dogs attached to the Armed Forces and State security forces."
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Carrer d´En Bou, 2, 46001 Valencia, right in the historic centre, next to the Central Market and the Silk Exchange."
+    },
+    {
+     "q": "How far is the Silk Exchange?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Silk Exchange and Santa Catalina church: 140 metres (2 minutes on foot); Plaza Redonda: 150 metres; Plaza de la Virgen: 400 metres (5 minute"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Check-in from 14:00h and check-out until 12:00h; if you arrive early and the room is ready, they will check you in. There is luggage storage"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can book with the Book button (it goes to the availability page of its official website, which advertises a best price guarantee and fre"
+    },
+    {
+     "q": "What is the email?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone +34 963 915 773 and email info@hostalam.com. Reception is open 24 hours."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Its legal notice says the website belongs to Antigua Morellana S.L., CIF B96621743, at Calle En Bou, 2, 46001 Valencia."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 963 915 773 · info@hostalam.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can book with the Book button (it goes to the availability page of its official website, which advertises a best price guarantee and fre"
+    },
+    {
+     "q": "Do you have a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 963 915 773 · info@hostalam.com."
+    },
+    {
+     "q": "Is there a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 963 915 773 · info@hostalam.com."
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Is there parking?",
+    "What time is check-in?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 18 chambres avec salle de bains privée : chambres twin à deux lits simples (pour 1 ou 2 personnes) et chambres doubles avec un lit"
+    },
+    {
+     "q": "Qu'ont les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres ont salle de bains privée, TV numérique et satellite avec chaînes en plusieurs langues, climatisation chaud/froid, sèche-cheveu"
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Il n'y a pas de petit-déjeuner à l'hostal ; il est en plein centre, près du Marché Central. Il y a un espace café et boissons et un distribu"
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "L'hostal n'a pas de parking propre, mais le parking public Plaza de la Reina est à seulement 250 mètres (renseignez-vous sur le tarif)."
+    },
+    {
+     "q": "Avez-vous des chambres adaptées ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, il dispose de chambres adaptées aux personnes à mobilité réduite."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Les animaux ne sont pas acceptés, sauf les chiens d'assistance et les chiens rattachés aux forces armées et de sécurité de l'État."
+    },
+    {
+     "q": "Où est-ce ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il se trouve Carrer d´En Bou, 2, 46001 Valence, en plein centre historique, près du Marché Central et de la Bourse de la Soie."
+    },
+    {
+     "q": "À quelle distance est la Bourse de la Soie ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Bourse de la Soie et église Santa Catalina : 140 mètres (2 minutes à pied) ; Plaza Redonda : 150 mètres ; place de la Vierge : 400 mètres (5"
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Arrivée à partir de 14:00h et départ jusqu'à 12:00h ; si vous arrivez tôt et que la chambre est prête, l'enregistrement est possible. Consig"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver avec le bouton Réserver (vers la page de disponibilité de son site officiel, qui annonce le meilleur prix garanti et l'"
+    },
+    {
+     "q": "Quel est l'e-mail ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone +34 963 915 773 et e-mail info@hostalam.com. La réception est ouverte 24 heures."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sa mention légale indique que le site appartient à Antigua Morellana S.L., CIF B96621743, Calle En Bou, 2, 46001 Valence."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 963 915 773 · info@hostalam.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver avec le bouton Réserver (vers la page de disponibilité de son site officiel, qui annonce le meilleur prix garanti et l'"
+    },
+    {
+     "q": "Avez-vous une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 963 915 773 · info@hostalam.com."
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 963 915 773 · info@hostalam.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres a-t-il ?",
+    "Y a-t-il un parking ?",
+    "À quelle heure est le check-in ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
